@@ -1,3 +1,6 @@
 A user interface carries the purpose of helping rookie or new computer owners.
 Rather than being dependent on a terminal program built into the computer, an interface can help organize programs with tiles or shortcuts to programs using a desktop interface.
 
+
+An uninstaller can assist with removing unwanted applications or programs off the computer. On something like MacOS, the user can simply drag any unwanted icon representing an application into the trash bin. With a program like Windows, the user must either go into Control Panel, or System Settings and navigate to the Apps category.
+
