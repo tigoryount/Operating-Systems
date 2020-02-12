@@ -1,0 +1,3 @@
+A user interface carries the purpose of helping rookie or new computer owners.
+Rather than being dependent on a terminal program built into the computer, an interface can help organize programs with tiles or shortcuts to programs using a desktop interface.
+
